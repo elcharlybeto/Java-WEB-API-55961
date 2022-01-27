@@ -1,0 +1,15 @@
+package com.educacionit.entidades;
+
+public class Usuario {
+	
+	
+	
+	/*
+	 * 
+	 * 
+	 * correo varchar(100) not null,
+	clave blob, -- guardar una clave
+	fechaActualizacion datetime default current_timestamp(), -- triggers
+	fechaCreacion date,*/
+
+}

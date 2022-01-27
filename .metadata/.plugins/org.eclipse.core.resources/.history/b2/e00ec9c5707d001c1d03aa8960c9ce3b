@@ -1,0 +1,14 @@
+package com.educacionit.interfaces;
+
+public interface DAO {
+
+	E buscar();
+	
+	Boolean insertar();
+	
+	Boolean eliminar();
+	
+	Boolean actualizar();
+	
+	
+}

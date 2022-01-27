@@ -1,0 +1,22 @@
+package com.educacionit.interfaces;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public interface ConexionMariaDB {
+	
+	
+	default Connection getConexion() {
+		// 
+		Connection conexion =  null;
+		String URL;
+		String USER;
+		String PASS;
+		
+		conexion = DriverManager.getConnection(URL, USER, PASS);
+		
+		return conexion;
+		
+	}
+
+}

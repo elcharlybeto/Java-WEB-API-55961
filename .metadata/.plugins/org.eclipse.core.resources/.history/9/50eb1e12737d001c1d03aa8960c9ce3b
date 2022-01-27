@@ -1,0 +1,4 @@
+# clave = ????
+url=jdbc:mariadb
+user=root
+pass=
