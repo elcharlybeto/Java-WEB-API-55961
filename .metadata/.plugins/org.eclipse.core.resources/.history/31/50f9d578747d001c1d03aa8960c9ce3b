@@ -1,4 +1,0 @@
-url=jdbc:mariadb://localhost:3306/javaWebAPI55961
-user=root
-
-# jdbc:mariadb://servidor:puerto/database

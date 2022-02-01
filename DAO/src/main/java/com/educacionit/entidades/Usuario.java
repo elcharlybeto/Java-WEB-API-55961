@@ -1,11 +1,13 @@
 package com.educacionit.entidades;
 
+import java.io.Serializable;
 import java.util.Date;
 
 import com.educacionit.interfaces.UtilidadesFecha;
 
-public class Usuario {
+public class Usuario implements Serializable{
 
+	private static final long serialVersionUID = 1L;
 	private String correo;
 	private String clave;
 	private Date fechaActualizacion;

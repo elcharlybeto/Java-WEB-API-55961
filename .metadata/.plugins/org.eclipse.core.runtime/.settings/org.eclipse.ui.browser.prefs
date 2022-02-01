@@ -1,4 +1,4 @@
 browser-choice=1
 browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe" name\="Microsoft Edge"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
 eclipse.preferences.version=1
-internalWebBrowserHistory=http\://localhost\:8080/Sesiones/|*|
+internalWebBrowserHistory=file\:/C\:/Users/octav/Documents/EducacionIT/Java%20WEB%20API%2055961/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1643675295622/index.html|*|file\:/C\:/Users/octav/eclipse/jee-2021-03/eclipse/../../../.p2/pool/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.16.202103111541-RELEASE/resources/welcome/index.html|*|http\://localhost\:8080/Sesiones/|*|

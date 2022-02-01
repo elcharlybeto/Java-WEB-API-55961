@@ -23,14 +23,16 @@ public interface ConexionMariaDB {
 			String USER = propiedades.getProperty("user");
 			String PASS = propiedades.getProperty("pass", "1234");
 
+			Class.forName(propiedades.getProperty("driver"));
 			conexion = DriverManager.getConnection(URL, USER, PASS);
-			// polimorfismo
 		} catch (SQLException e) {
 			e.printStackTrace();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();// no encuentro
 		} catch (IOException e) {
 			e.printStackTrace(); // archivo corrupto bloqueado
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
 		}
 
 		return conexion;
