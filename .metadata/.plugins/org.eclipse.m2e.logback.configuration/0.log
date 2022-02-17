@@ -752,3 +752,1039 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment 
 2022-02-03 21:57:46,642 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
 2022-02-03 21:59:36,515 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-03 21:59:36,515 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-03 21:59:36,516 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 21:59:36,516 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-03 22:02:22,389 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@27a6ebd1{STOPPING}[10.0.6,sto=0]
+2022-02-03 22:02:22,393 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@51a2de8b{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-02-03 22:02:22,399 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@7ae1f6fe{/help,null,STOPPED}
+2022-02-04 15:58:52,515 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-07 18:25:41,846 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-07 20:06:14,423 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-07 20:07:20,365 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:20,367 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\DAO\src\main\resources
+2022-02-07 20:07:20,369 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:20,369 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\DAO\src\test\resources
+2022-02-07 20:07:21,161 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 20:07:21,258 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:21,258 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:07:21,259 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:21,259 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:07:22,593 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:22,593 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Sesiones\src\main\resources
+2022-02-07 20:07:22,595 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:22,596 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Sesiones\src\test\resources
+2022-02-07 20:07:22,785 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 20:07:22,788 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:22,788 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebService\src\main\resources
+2022-02-07 20:07:22,789 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:22,790 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebService\src\test\resources
+2022-02-07 20:07:23,314 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:23,314 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebServiceClient\src\main\resources
+2022-02-07 20:07:23,315 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:23,315 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebServiceClient\src\test\resources
+2022-02-07 20:07:42,190 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:42,190 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:07:42,191 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:42,192 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:07:59,718 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:59,718 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:07:59,719 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:07:59,719 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:08:05,852 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:08:05,852 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:08:05,854 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:08:05,854 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:08:59,233 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:08:59,233 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:08:59,234 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:08:59,234 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:09:07,082 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.6; built: 2021-06-29T15:28:56.259Z; git: 37e7731b4b142a882d73974ff3bec78d621bd674; jvm 17.0.1+12
+2022-02-07 20:09:07,106 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-02-07 20:09:07,134 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5ef1038e{/help,null,AVAILABLE}
+2022-02-07 20:09:07,155 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2a5ccf4b{HTTP/1.1, (http/1.1)}{127.0.0.1:49898}
+2022-02-07 20:09:07,157 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@4bab6c01{STARTING}[10.0.6,sto=0] @211364ms
+2022-02-07 20:10:08,107 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:10:08,107 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:10:08,108 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:10:08,108 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:12:36,881 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:12:36,881 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:12:36,882 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:12:36,882 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:13:06,778 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:13:06,778 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:13:06,779 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:13:06,779 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:13:32,857 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:13:32,857 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:13:32,858 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:13:32,858 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:13:41,233 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:13:41,233 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:13:41,234 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:13:41,234 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:14:11,003 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:14:11,004 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:14:11,005 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:14:11,005 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:14:25,281 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:14:25,281 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:14:25,283 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:14:25,283 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:15:11,990 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:11,990 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:15:11,991 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:11,991 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:15:14,041 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:14,041 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:15:14,041 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:14,041 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:15:21,308 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:21,308 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:15:21,309 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:21,309 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:15:32,401 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:32,402 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:15:32,403 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:15:32,403 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:22:37,063 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:22:37,063 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:22:37,064 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:22:37,064 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:24:12,768 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:24:12,768 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:24:12,770 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:24:12,770 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:24:21,623 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:24:21,623 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:24:21,624 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:24:21,624 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:28:06,534 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:28:06,534 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:28:06,535 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:28:06,536 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:28:10,048 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:28:10,048 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:28:10,049 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:28:10,049 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:28:13,094 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:28:13,095 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:28:13,095 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:28:13,095 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:29:12,664 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:29:12,664 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:29:12,665 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:29:12,665 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:29:34,792 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:29:34,792 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:29:34,794 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:29:34,794 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:30:32,460 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:30:32,460 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:30:32,461 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:30:32,461 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:30:34,541 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:30:34,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:30:34,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:30:34,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:31:53,261 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:31:53,261 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:31:53,262 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:31:53,262 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:32:27,539 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:32:27,539 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:32:27,540 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:32:27,540 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:32:39,100 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:32:39,100 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:32:39,101 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:32:39,101 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:32:42,658 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:32:42,658 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:32:42,659 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:32:42,660 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:33:38,131 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:33:38,131 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:33:38,132 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:33:38,132 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:36:26,193 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:36:26,194 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:36:26,196 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:36:26,196 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:37:10,487 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:10,487 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:37:10,489 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:10,489 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:37:21,830 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:21,831 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:37:21,832 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:21,833 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:37:25,112 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:25,113 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:37:25,113 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:25,113 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:37:31,014 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:31,014 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:37:31,015 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:31,015 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:37:46,660 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:46,660 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:37:46,661 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:46,661 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:37:49,639 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:49,639 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:37:49,640 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:37:49,640 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:38:27,010 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:38:27,011 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:38:27,012 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:38:27,012 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:39:01,139 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:39:01,140 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:39:01,141 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:39:01,141 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:39:17,617 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:39:17,617 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:39:17,618 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:39:17,618 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:39:28,037 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:39:28,037 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:39:28,038 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:39:28,038 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:41:43,730 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:41:43,731 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:41:43,732 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:41:43,732 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:42:17,086 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:42:17,087 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:42:17,088 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:42:17,088 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:42:30,863 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:42:30,863 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:42:30,865 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:42:30,865 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:42:59,874 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:42:59,875 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:42:59,876 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:42:59,876 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:43:32,632 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:43:32,632 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:43:32,647 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:43:32,648 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:43:34,724 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:43:34,724 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:43:34,725 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:43:34,725 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:44:31,786 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:44:31,786 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:44:31,787 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:44:31,787 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:44:54,158 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:44:54,158 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:44:54,159 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:44:54,159 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:44:56,622 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:44:56,622 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:44:56,623 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:44:56,623 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:45:01,369 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:45:01,369 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:45:01,369 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:45:01,369 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:45:17,547 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:45:17,548 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:45:17,548 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:45:17,548 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:47:29,192 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:47:29,192 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:47:29,193 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:47:29,193 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:47:31,406 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:47:31,406 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:47:31,407 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:47:31,407 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:48:15,713 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:15,714 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:48:15,714 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:15,714 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:48:24,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:24,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:48:24,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:24,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:48:43,202 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:43,203 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:48:43,203 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:43,203 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:48:54,948 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:54,948 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:48:54,949 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:48:54,949 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:49:36,130 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:49:36,131 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:49:36,132 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:49:36,132 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:49:44,134 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:49:44,134 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:49:44,135 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:49:44,135 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:50:03,801 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:03,802 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:50:03,803 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:03,803 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:50:11,632 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:11,633 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:50:11,634 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:11,634 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:50:39,230 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:39,230 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:50:39,231 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:39,231 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:50:53,063 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:53,063 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:50:53,064 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:50:53,064 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:05,776 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:05,776 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:05,777 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:05,777 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:07,852 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:07,853 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:07,853 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:07,853 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:09,880 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:09,880 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:09,881 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:09,881 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:11,908 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:11,908 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:11,910 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:11,910 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:37,287 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:37,288 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:37,288 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:37,288 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:53,028 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:53,029 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:53,029 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:53,029 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:55,277 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:55,277 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:55,278 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:55,278 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:51:57,494 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:57,494 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:51:57,494 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:51:57,494 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:52:34,836 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:52:34,836 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:52:34,837 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:52:34,837 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:54:24,955 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:54:24,955 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:54:24,956 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:54:24,956 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:56:44,105 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:56:44,106 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:56:44,106 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:56:44,106 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:57:16,527 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:57:16,528 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:57:16,529 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:57:16,529 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:57:46,671 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:57:46,671 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:57:46,672 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:57:46,672 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:57:49,479 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:57:49,480 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:57:49,481 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:57:49,481 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 20:58:19,694 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:58:19,694 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 20:58:19,695 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 20:58:19,695 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:01:10,622 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:01:10,622 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:01:10,622 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:01:10,623 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:01:18,733 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:01:18,733 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:01:18,734 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:01:18,734 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:01:47,314 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:01:47,314 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:01:47,315 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:01:47,315 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:02:49,628 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:02:49,628 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:02:49,629 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:02:49,629 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:02:51,668 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:02:51,669 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:02:51,670 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:02:51,670 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:05:02,258 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:05:02,258 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:05:02,259 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:05:02,259 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:05:27,338 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:05:27,338 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:05:27,339 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:05:27,339 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:06:16,133 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:06:16,134 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:06:16,135 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:06:16,135 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:09:36,989 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:36,989 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:09:36,990 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:36,990 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:09:52,325 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:52,326 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:09:52,327 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:52,327 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:09:56,278 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:56,279 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:09:56,279 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:56,279 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:09:58,837 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:58,837 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:09:58,838 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:09:58,838 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:10:02,025 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:10:02,025 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:10:02,026 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:10:02,026 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:10:15,480 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:10:15,480 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:10:15,481 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:10:15,481 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:10:35,982 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:10:35,983 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:10:35,983 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:10:35,984 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:11:02,823 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:02,823 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:11:02,824 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:02,824 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:11:07,603 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:07,603 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:11:07,603 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:07,603 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:11:20,797 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:20,798 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:11:20,798 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:20,798 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:11:26,814 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:26,814 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:11:26,815 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:26,815 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:11:32,618 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:32,618 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:11:32,619 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:32,619 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:11:51,434 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:51,434 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:11:51,435 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:11:51,435 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:12:07,619 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:07,619 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:12:07,620 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:07,620 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:12:26,750 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:26,750 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:12:26,751 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:26,751 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:12:30,351 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:30,351 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:12:30,352 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:30,352 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:12:38,250 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:38,250 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:12:38,251 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:38,251 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:12:42,886 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:42,886 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:12:42,887 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:42,887 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:12:49,134 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:49,134 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:12:49,135 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:12:49,135 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:14:35,167 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:14:35,168 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:14:35,168 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:14:35,168 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:14:45,774 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:14:45,774 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:14:45,776 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:14:45,776 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:14:49,789 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:14:49,789 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:14:49,790 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:14:49,790 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:15:09,694 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:09,695 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:15:09,695 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:09,695 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:15:29,889 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:29,889 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:15:29,890 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:29,890 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:15:44,615 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:44,615 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:15:44,616 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:44,616 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:15:53,848 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:53,848 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:15:53,849 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:15:53,849 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:17:43,664 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:17:43,664 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:17:43,665 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:17:43,665 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:18:50,010 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:18:50,010 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:18:50,011 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:18:50,011 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:19:11,619 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:19:11,619 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:19:11,620 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:19:11,620 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:19:47,695 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:19:47,695 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:19:47,695 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:19:47,695 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:19:57,116 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:19:57,116 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:19:57,117 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:19:57,117 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:20:04,753 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:04,753 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:20:04,754 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:04,754 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:20:11,207 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:11,207 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:20:11,208 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:11,208 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:20:33,660 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:33,660 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:20:33,661 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:33,661 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:20:47,773 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:47,773 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:20:47,773 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:47,774 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:20:53,685 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:53,685 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:20:53,686 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:20:53,686 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:22:24,999 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:22:24,999 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:22:25,000 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:22:25,000 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:24:17,070 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:24:17,071 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:24:17,071 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:24:17,071 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:24:33,593 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:24:33,593 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:24:33,594 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:24:33,594 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:25:15,817 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:25:15,817 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:25:15,818 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:25:15,818 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:25:38,277 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:25:38,277 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:25:38,278 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:25:38,279 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:26:06,435 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:26:06,435 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:26:06,436 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:26:06,436 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:26:20,417 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:26:20,417 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:26:20,418 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:26:20,418 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:26:41,640 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:26:41,640 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:26:41,641 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:26:41,642 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:27:11,928 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:27:11,929 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:27:11,930 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:27:11,930 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:27:17,369 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:27:17,369 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:27:17,370 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:27:17,370 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:40:27,821 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\pom.xml
+2022-02-07 21:40:29,214 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\pom.xml.
+2022-02-07 21:40:29,372 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/main/java
+2022-02-07 21:40:29,459 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/test/java
+2022-02-07 21:40:29,563 [Worker-77: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-02-07 21:40:29,798 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:40:29,798 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:40:29,799 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:40:29,799 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:40:52,322 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\pom.xml.
+2022-02-07 21:40:52,395 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:40:52,395 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:40:52,396 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:40:52,396 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:41:22,760 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\pom.xml.
+2022-02-07 21:41:22,901 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:41:22,901 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:41:22,903 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:41:22,903 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:41:24,084 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:41:24,084 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:41:24,085 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:41:24,085 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:42:36,924 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\pom.xml.
+2022-02-07 21:42:37,131 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:37,132 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:42:37,133 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:37,133 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:42:37,437 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:37,437 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:42:37,438 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:37,438 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:42:45,572 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\pom.xml.
+2022-02-07 21:42:45,704 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:45,705 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:42:45,705 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:45,705 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:42:54,706 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-07 21:42:54,944 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebServiceClient:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebServiceClient\pom.xml.
+2022-02-07 21:42:54,970 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\pom.xml.
+2022-02-07 21:42:55,034 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Sesiones:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Sesiones\pom.xml.
+2022-02-07 21:42:55,052 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Rest:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\pom.xml.
+2022-02-07 21:42:55,065 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:55,088 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebService\pom.xml.
+2022-02-07 21:42:55,090 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:55,426 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:55,437 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:55,473 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:55,479 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:55,837 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/main/java
+2022-02-07 21:42:55,838 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/test/java
+2022-02-07 21:42:56,028 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-02-07 21:42:56,184 [Worker-84: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:56,195 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,196 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-07 21:42:56,197 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,197 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-07 21:42:56,261 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,261 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:42:56,261 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,262 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:42:56,395 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,395 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Sesiones\src\main\resources
+2022-02-07 21:42:56,396 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,396 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Sesiones\src\test\resources
+2022-02-07 21:42:56,412 [Worker-84: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-07 21:42:56,414 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,414 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebService\src\main\resources
+2022-02-07 21:42:56,415 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,415 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebService\src\test\resources
+2022-02-07 21:42:56,426 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,426 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebServiceClient\src\main\resources
+2022-02-07 21:42:56,426 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:42:56,427 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebServiceClient\src\test\resources
+2022-02-07 21:43:13,477 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:43:13,478 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:43:13,478 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:43:13,478 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:45:44,036 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:45:44,037 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:45:44,039 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:45:44,040 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:46:09,567 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:46:09,567 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:46:09,569 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:46:09,569 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:46:46,397 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:46:46,398 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:46:46,398 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:46:46,398 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:47:08,438 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:08,439 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:47:08,453 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:08,453 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:47:18,860 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:18,860 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:47:18,861 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:18,861 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:47:24,236 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:24,236 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:47:24,237 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:24,237 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:47:28,767 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:28,767 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:47:28,768 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:28,768 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:47:29,966 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:29,966 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:47:29,967 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:29,967 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:47:31,956 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:31,956 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:47:31,957 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:31,957 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:47:34,604 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:34,605 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:47:34,607 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:47:34,607 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:48:41,415 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:48:41,415 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:48:41,416 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:48:41,416 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:48:58,933 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:48:58,933 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:48:58,935 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:48:58,935 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:49:33,272 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:49:33,272 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:49:33,273 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:49:33,273 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:49:36,741 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:49:36,741 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:49:36,742 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:49:36,742 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:50:38,388 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:50:38,388 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:50:38,389 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:50:38,389 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:50:47,088 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:50:47,088 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:50:47,089 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:50:47,089 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:51:05,300 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:51:05,301 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:51:05,302 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:51:05,302 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:51:21,446 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:51:21,446 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:51:21,447 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:51:21,447 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:52:11,785 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:52:11,785 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:52:11,786 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:52:11,786 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:52:24,443 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:52:24,443 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:52:24,444 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:52:24,444 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:52:35,752 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:52:35,753 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:52:35,753 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:52:35,753 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:53:34,303 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:53:34,303 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:53:34,304 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:53:34,304 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:54:02,839 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:54:02,839 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:54:02,840 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:54:02,840 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:54:19,926 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:54:19,926 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:54:19,926 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:54:19,926 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:54:30,631 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:54:30,631 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:54:30,631 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:54:30,632 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:55:30,710 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:55:30,710 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:55:30,711 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:55:30,711 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:57:37,785 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:57:37,785 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:57:37,786 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:57:37,786 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:59:07,242 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:59:07,242 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:59:07,243 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:59:07,243 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:59:10,998 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:59:10,999 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:59:10,999 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:59:10,999 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 21:59:54,973 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:59:54,973 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 21:59:54,974 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 21:59:54,975 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 22:00:10,547 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 22:00:10,548 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 22:00:10,549 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 22:00:10,549 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 22:00:20,607 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 22:00:20,607 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 22:00:20,607 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 22:00:20,607 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 22:11:19,271 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 22:11:19,271 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-07 22:11:19,272 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-07 22:11:19,272 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-07 22:11:19,870 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@4bab6c01{STOPPING}[10.0.6,sto=0]
+2022-02-07 22:11:19,876 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2a5ccf4b{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-02-07 22:11:19,886 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5ef1038e{/help,null,STOPPED}
+2022-02-08 17:47:59,818 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-10 14:28:25,505 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-10 14:32:21,764 [Worker-11: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:38:54,190 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Rest:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\pom.xml.
+2022-02-10 14:38:54,234 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:38:54,430 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:38:55,330 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:38:55,825 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:38:55,825 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:38:55,827 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:38:55,828 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:38:55,920 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Rest
+2022-02-10 14:38:55,921 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Rest
+2022-02-10 14:38:55,927 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:38:56,328 [Worker-37: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:38:56,338 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:38:56,338 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:38:56,340 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:38:56,340 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:38:58,222 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20210307/json-20210307-sources.jar
+2022-02-10 14:38:59,030 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20210307/json-20210307-sources.jar
+2022-02-10 14:38:59,111 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.json:json:20210307
+2022-02-10 14:38:59,271 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:38:59,272 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:38:59,273 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:38:59,273 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:39:14,940 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-10 14:39:15,078 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Rest:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\pom.xml.
+2022-02-10 14:39:15,109 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:39:15,351 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:39:15,509 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Rest/src/main/java
+2022-02-10 14:39:15,510 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Rest/src/test/java
+2022-02-10 14:39:16,006 [Worker-36: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Rest
+2022-02-10 14:39:16,012 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-02-10 14:39:16,254 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:39:16,269 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:39:16,269 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:39:16,271 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:39:16,271 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:39:16,271 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Rest
+2022-02-10 14:39:16,271 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Rest
+2022-02-10 14:39:16,275 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:39:34,619 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.6; built: 2021-06-29T15:28:56.259Z; git: 37e7731b4b142a882d73974ff3bec78d621bd674; jvm 17.0.1+12
+2022-02-10 14:39:34,638 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-02-10 14:39:34,666 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5dfcf130{/help,null,AVAILABLE}
+2022-02-10 14:39:34,686 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3ea099c6{HTTP/1.1, (http/1.1)}{127.0.0.1:62521}
+2022-02-10 14:39:34,687 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@36cb5b28{STARTING}[10.0.6,sto=0] @729046ms
+2022-02-10 14:41:48,968 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:41:48,968 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:41:48,969 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:41:48,969 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:43:15,120 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:43:15,121 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:43:15,121 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:43:15,121 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:45:36,073 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Rest:0.0.1-SNAPSHOT @ C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\pom.xml.
+2022-02-10 14:45:36,112 [Worker-44: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:45:36,176 [Worker-44: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:45:36,420 [Worker-44: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:45:36,569 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:45:36,569 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:45:36,571 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:45:36,571 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:45:36,571 [Worker-44: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Rest
+2022-02-10 14:45:36,571 [Worker-44: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Rest
+2022-02-10 14:45:36,574 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:45:36,860 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 14:45:36,866 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:45:36,866 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:45:36,867 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:45:36,867 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:54:12,694 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:54:12,694 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:54:12,695 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:54:12,695 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:54:49,291 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:54:49,291 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:54:49,292 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:54:49,292 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:54:58,921 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:54:58,922 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:54:58,922 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:54:58,922 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:55:16,359 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:55:16,359 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:55:16,360 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:55:16,360 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:56:50,577 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:56:50,577 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:56:50,578 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:56:50,578 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:57:37,012 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:57:37,012 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:57:37,013 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:57:37,013 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:59:14,864 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:14,864 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:59:14,865 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:14,865 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:59:24,491 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:24,491 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:59:24,492 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:24,492 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:59:33,162 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:33,162 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:59:33,163 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:33,163 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 14:59:39,760 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:39,760 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 14:59:39,761 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:59:39,761 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 15:01:09,349 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 15:01:09,349 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 15:01:09,350 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 15:01:09,350 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 20:07:23,914 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-10 20:11:41,128 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.6; built: 2021-06-29T15:28:56.259Z; git: 37e7731b4b142a882d73974ff3bec78d621bd674; jvm 17.0.1+12
+2022-02-10 20:11:41,149 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-02-10 20:11:41,177 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5ab8df6a{/help,null,AVAILABLE}
+2022-02-10 20:11:41,200 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4760bce1{HTTP/1.1, (http/1.1)}{127.0.0.1:52607}
+2022-02-10 20:11:41,202 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@458d6843{STARTING}[10.0.6,sto=0] @294334ms
+2022-02-10 20:12:32,129 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-10 20:12:33,794 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:12:33,795 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-10 20:12:33,796 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:12:33,796 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-10 20:12:35,399 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:12:35,399 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:12:35,401 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:12:35,401 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:16:24,872 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:24,872 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:16:24,873 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:24,873 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:16:31,835 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:31,836 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:16:31,838 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:31,838 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:16:35,743 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:35,744 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:16:35,745 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:35,745 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:16:43,654 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:43,654 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:16:43,655 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:16:43,656 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:17:11,569 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:17:11,569 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:17:11,571 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:17:11,571 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:19:24,142 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:19:24,143 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:19:24,147 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:19:24,147 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:19:47,873 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:19:47,874 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:19:47,875 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:19:47,875 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:19:58,249 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:19:58,249 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:19:58,251 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:19:58,251 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:37:04,248 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:37:04,248 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:37:04,249 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:37:04,250 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:37:37,749 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:37:37,750 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:37:37,751 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:37:37,751 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:39:12,216 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:39:12,216 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:39:12,228 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:39:12,228 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:39:32,095 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:39:32,095 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:39:32,096 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:39:32,096 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:39:54,763 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:39:54,764 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:39:54,765 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:39:54,765 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:40:21,060 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:40:21,060 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:40:21,062 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:40:21,062 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:40:52,370 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:40:52,370 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:40:52,371 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:40:52,372 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:42:00,164 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:42:00,164 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:42:00,165 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:42:00,165 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:42:14,340 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:42:14,340 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:42:14,341 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:42:14,341 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:42:37,123 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:42:37,123 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:42:37,124 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:42:37,124 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:45:49,070 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:45:49,070 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:45:49,072 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:45:49,072 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:45:54,020 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:45:54,020 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:45:54,021 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:45:54,021 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:47:22,770 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:47:22,771 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:47:22,772 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:47:22,772 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:47:37,266 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:47:37,267 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:47:37,268 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:47:37,268 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:49:02,728 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:49:02,728 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:49:02,729 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:49:02,730 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:50:34,982 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:50:34,982 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-10 20:50:34,982 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 20:50:34,983 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-10 20:54:39,640 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@458d6843{STOPPING}[10.0.6,sto=0]
+2022-02-10 20:54:39,648 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4760bce1{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-02-10 20:54:39,662 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5ab8df6a{/help,null,STOPPED}
+2022-02-16 12:12:47,110 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-16 12:12:49,125 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:49,126 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\DAO\src\main\resources
+2022-02-16 12:12:49,127 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:49,128 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\DAO\src\test\resources
+2022-02-16 12:12:49,859 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-16 12:12:49,881 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:49,882 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\main\resources
+2022-02-16 12:12:49,883 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:49,883 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Rest\src\test\resources
+2022-02-16 12:12:50,354 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,354 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\main\resources
+2022-02-16 12:12:50,356 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,356 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\RestClient\src\test\resources
+2022-02-16 12:12:50,446 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,446 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Sesiones\src\main\resources
+2022-02-16 12:12:50,447 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,447 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\Sesiones\src\test\resources
+2022-02-16 12:12:50,535 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-02-16 12:12:50,539 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,539 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebService\src\main\resources
+2022-02-16 12:12:50,540 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,540 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebService\src\test\resources
+2022-02-16 12:12:50,762 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,762 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebServiceClient\src\main\resources
+2022-02-16 12:12:50,763 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-16 12:12:50,763 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\WebServiceClient\src\test\resources

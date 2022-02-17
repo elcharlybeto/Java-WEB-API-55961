@@ -1,5 +1,7 @@
 INDEX VERSION 1.131
 C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\156370825.index
 \WebService\src\main\java
+C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3673801133.index
+\Rest\src\main\java
 C:\Users\octav\Documents\EducacionIT\Java WEB API 55961\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3197567312.index
 \Sesiones\src\main\java

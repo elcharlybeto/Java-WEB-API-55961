@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.tempuri.Calculator"/>
+    <fullyQualifiedTypeName name="org.tempuri.CalculatorSoapProxy"/>
+    <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicio"/>
+    <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicioProxy"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.ApplicationPath"/>
+    <fullyQualifiedTypeName name="org.glassfish.jersey.server.ResourceConfig"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="com.educacionit.implementaciones.mariadb.UsuarioImplmentacion"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.QueryParam"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.PUT"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Consumes"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.DELETE"/>
+    <fullyQualifiedTypeName name="java.util.ListIterator"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.POST"/>
+    <fullyQualifiedTypeName name="com.educacionit.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.FormParam"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.UriBuilder"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.client.Client"/>
+    <fullyQualifiedTypeName name="org.glassfish.jersey.client.ClientBackgroundSchedulerLiteral"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.client.ClientBuilder"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.client.WebTarget"/>
+    <fullyQualifiedTypeName name="com.educacionit.RestClient.Usuario"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.client.Entity"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="org.glassfish.jersey.client.ClientConfig"/>
+    <fullyQualifiedTypeName name="org.glassfish.jersey.client.ClientProperties"/>
+</qualifiedTypeNameHistroy>
