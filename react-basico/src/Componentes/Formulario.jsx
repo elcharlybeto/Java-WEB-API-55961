@@ -1,4 +1,6 @@
 import React from "react";
+import '../recursos/CSS/form.css';
+import '../recursos/CSS/button.css';
 
 export default class Formulario extends React.Component {
     constructor(props) {
@@ -19,8 +21,8 @@ export default class Formulario extends React.Component {
     enviarValoresFormulario = (event) => {
         event.preventDefault();
         // enviar datos
-
-        console.log("Enviando formulario");
+        this.props.agregarUsuario(this.state.email,this.state.first_name,this.state.last_name);
+        
         this.limpiarValoresFormulario();
     }
 
@@ -68,8 +70,8 @@ export default class Formulario extends React.Component {
                     />
 
                     <div>
-                        <button type="submit">Agregar Usuario</button>
-                        <button onClick={this.limpiarValoresFormulario} type="reset">Limpiar Formulario</button>
+                        <button className="success" type="submit">Agregar Usuario</button>
+                        <button className="warning" onClick={this.limpiarValoresFormulario} type="reset">Limpiar Formulario</button>
                     </div>
 
 
